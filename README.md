@@ -32,7 +32,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - `Lbry` (LBC)
 - `Equihash` (Zcash / XEC)
 - `Pascal` (PASC)
-- `X11Gost` (SIBCoin, SIB)
+- `X11Gost` (SIBCoin / SIB)
 - `Sia` (SC)
 - `Blake2`s (NevaCoin, Netko Coin, Verge, TajCoin)
 - `Skunk` (Signatum Coin / SIGT)
