@@ -29,7 +29,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - DaggerHashimoto
 - Decred
 - CryptoNight
-- Lbry
+- Lbry (LBC)
 - Equihash (Zcash)
 - Pascal
 - X11Gost
