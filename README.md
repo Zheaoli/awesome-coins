@@ -142,6 +142,8 @@ There are many algorithms used in many different crytpocurrencies. This document
 ## Cool Stuff
 
 - [Tezos](https://www.tezos.com) (self-healing blockchain)
+- [Tendermint](https://tendermint.com) (Byzantine fault-tolerant replicated state machines in any programming language)
+- [Cosmos](https://cosmos.network) (a network and a framework for interoperability between blockchains.)
 
 ## Find this useful?
 
