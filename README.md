@@ -36,3 +36,13 @@ There are many algorithms used in many different crytpocurrencies. This document
 - `Sia` (SC)
 - `Blake2`s (NevaCoin, Netko Coin, Verge, TajCoin)
 - `Skunk` (Signatum Coin / SIGT)
+
+## Find this useful?
+
+If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
+
+* **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+* **ETH**: `0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
+* **LTC**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
+- **LBRY**: `bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
+- **SIA**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884` 
