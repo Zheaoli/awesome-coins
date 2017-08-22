@@ -93,6 +93,16 @@ There are many algorithms used in many different crytpocurrencies. This document
 - X17			    Verge (X17)
 - Zr5			    ZiftrCoin
 
+## Hosted Wallets
+
+- [BTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
+- [ETH (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
+- [LTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
+
+## Paper Wallets
+
+- Sia Paper Wallet
+
 ## Find this useful?
 
 If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
