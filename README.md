@@ -6,10 +6,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Algos
 
-- Scrypt (Litecoin)
-- SHA256 (Bitcoin)
+- Scrypt (Litecoin/LTC)
+- SHA256 (Bitcoin/BTC)
 - ScryptNF
-- X11 (Darkcoin, Dashcoin, ASIC-Resistant)
+- X11 (Dash/Darkcoin, Dashcoin, ASIC-Resistant)
 - X13 (MaruCoin, CPU/GPU)
 - Keccak
 - X15
