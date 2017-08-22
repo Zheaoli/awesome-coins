@@ -13,7 +13,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - `X13` (MaruCoin, CPU/GPU)
 - `Keccak` (MaxCoin / MAX)
 - `X15` (HTML5 Coin, HTML5)
-- `Nist4`
+- `Nist5` (Talkcoin, TAC)
 - `NeoScrypt` (Phoenixcoin (PXC), Imperialcoin (IPC), Feathercoin (FTC), UFOcoin (UFO), Guncoin (GUN), Bollywoodcoin (BDC), Orbitcoin (ORB), Halcyon /HAL)
 - `Lyra2RE` (VertCoin / VTC)
 - `WhirlpoolX` (Vanillacoin / VNL)
