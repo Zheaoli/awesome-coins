@@ -15,10 +15,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 - X15
 - Nist4
 - NeoScrypt
-- Lyra2RE
-- WhirlpoolX
-- Qubit
-- Quark
+- Lyra2RE (VertCoin/VTC)
+- WhirlpoolX (Vanillacoin/VNL)
+- Qubit (QuibitCoin/Q2C)
+- Quark (
 - Axiom
 - Lyra2REv2
 - ScryptJaneNf16
