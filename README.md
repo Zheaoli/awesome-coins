@@ -98,7 +98,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Debit Cards
 
-- [Cryptopay BTC Debit Card]((https://cryptopay.me/join/03db9c17)
+- [Cryptopay BTC Debit Card](https://cryptopay.me/join/03db9c17)
 
 ## Paper Wallets
 
