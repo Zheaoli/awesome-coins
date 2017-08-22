@@ -31,8 +31,8 @@ There are many algorithms used in many different crytpocurrencies. This document
 - CryptoNight (XCN, CPU-only)
 - Lbry (LBC)
 - Equihash (Zcash / XEC)
-- Pascal
-- X11Gost
-- Sia
-- Blake2s
-- Skunk
+- Pascal (PASC)
+- X11Gost (SIBCoin, SIB)
+- Sia (SC)
+- Blake2s (NevaCoin, Netko Coin, Verge, TajCoin)
+- Skunk (Signatum Coin / SIGT)
