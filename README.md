@@ -4,7 +4,7 @@ A simple guide to cryto-currencies and their algos.
 
 There are many algorithms used in many different crytpocurrencies. This documentument serves to provide a simple map to reference which are for what. 
 
-## Algos supported by [NiceHash](https://www.nicehash.com/?refby=386829)
+## Algos supported by [NiceHash Miner](https://www.nicehash.com/?refby=386829)
 
 - `Scrypt` (Litecoin / LTC)
 - `SHA256` (Bitcoin / BTC)
@@ -15,7 +15,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - `X15` (HTML5 Coin, HTML5)
 - `Nist5` (Talkcoin, TAC)
 - `NeoScrypt` (Phoenixcoin (PXC), Imperialcoin (IPC), Feathercoin (FTC), UFOcoin (UFO), Guncoin (GUN), Bollywoodcoin (BDC), Orbitcoin (ORB), Halcyon /HAL)
-- `Lyra2RE` (VertCoin / VTC)
+- `Lyra2RE` (VertCoin / VTC, CryptoCoin)
 - `WhirlpoolX` (Vanillacoin / VNL)
 - `Qubit` (QuibitCoin / Q2C)
 - `Quark` (QRK)
@@ -30,7 +30,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - `Decred` (DCR)
 - `CryptoNight` (XCN, CPU-only)
 - `Lbry` (LBC)
-- `Equihash` (Zcash / XEC)
+- `Equihash` (Zcash / XEC, ZClassic, HUSH, Komodo)
 - `Pascal` (PASC)
 - `X11Gost` (SIBCoin / SIB)
 - `Sia` (SC)
@@ -47,27 +47,21 @@ There are many algorithms used in many different crytpocurrencies. This document
 - Cryptolight		AEON cryptonight (MEM/2)
 - Cryptonight		XMR cryptonight
 - DaggerHashimoto   Ethereum / ETH
-- Decred		    DCR (=blake256r14)
 - Deep			    Deepcoin
 - Dmd-Gr		    Diamond-Groestl
-- Equihash		    Zcash, ZClassic, HUSH, Komodo
 - Fresh			    Freshcoin
 - Fugue256		    Fuguecoin
 - Groestl		    Groestlcoin
 - Heavy			    Heavycoin
-- Hodl		        HodlCoin / HODL
+- Hodl		       HodlCoin / HODL
 - Jha			    JackpotCoin
 - Keccak		    Maxcoin
-- Lbry			    LBRY Credits
 - Luffa			    Joincoin
-- Lyra2			    CryptoCoin
-- Lyra2RE		    Old Vertcoin algo
-- Lyra2REv2		    VertCoin / VTC
 - Lyra2V2		    Vertcoin & MONAcoin
 - Lyra2Z		    Zerocoin (XZC)
 - Mjollni		    Mjollnircoin
 - Myr-Gr		    Myriad-Groest
-- Neoscrypt		    FeatherCoin
+- Neoscrypt		  FeatherCoin
 - Nist5			    Solaris / TalkCoin	
 - Pascal		    PASC
 - Penta			    Joincoin / Pentablake
@@ -90,9 +84,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - Vanilla		    Vanilla (Blake256)
 - Veltor		    VeltorCoin
 - Whirlpool		    Joincoin
-- WhirlpoolX	    Vanillacoin / VNL
 - Wildkecccak	    Boolberry
-- X11			    Dash, Darkcoin, Dashcoin
 - X11Evo		    Revolver
 - X11Gost		    SIBCoin, SIB
 - X13			    MaruCoin, CPU/GPU
