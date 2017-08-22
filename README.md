@@ -10,7 +10,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - `SHA256` (Bitcoin / BTC)
 - `ScryptNF` (Scrypt-Adaptive-Nfactor) (GPU Coin, GPUC)
 - `X11` (Dash / Darkcoin, Dashcoin, ASIC-Resistant)
-- `X13` (MaruCoin, CPU/GPU)
+- `X13` (MaruCoin / MARU) (CPU/GPU)
 - `Keccak` (MaxCoin / MAX)
 - `X15` (HTML5 Coin, HTML5)
 - `Nist5` (Talkcoin, TAC)
