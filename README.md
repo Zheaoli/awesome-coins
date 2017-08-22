@@ -139,6 +139,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 - [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j)
 - [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk)
 
+## Cool Stuff
+
+- [Tezos](https://www.tezos.com) (self-healing blockchain)
+
 ## Find this useful?
 
 If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
