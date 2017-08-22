@@ -4,7 +4,7 @@ A simple guide to cryto-currencies and their algos.
 
 There are many algorithms used in many different crytpocurrencies. This documentument serves to provide a simple map to reference which are for what. 
 
-## Algos supported by [NiceHash Miner](https://www.nicehash.com/?refby=386829)
+## Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
 - `Scrypt` (Litecoin / LTC)
 - `SHA256` (Bitcoin / BTC)
@@ -122,9 +122,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 - [cgminer](http://macminer.fabulouspanda.com/commandline/)
 - [sgminer](http://macminer.fabulouspanda.com/commandline/)
 
-## Recommended Graphics Cards (GPUs)
+## Recommended Hardware
 
 - [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j)
+- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk)
 
 ## Find this useful?
 
