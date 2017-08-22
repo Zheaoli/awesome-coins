@@ -1,8 +1,8 @@
-# Awesome Crypto Currency Tools & Algorithms 
+# Awesome Crypto Currency Tools & Algorithms
 
-A simple guide to cryto-currencies and their algos.
+A simple guide to crypto-currencies and their algos.
 
-There are many algorithms used in many different crytpocurrencies. This documentument serves to provide a simple map to reference which are for what. 
+There are many algorithms used in many different crypto-currencies. This documentument serves to provide a simple map to reference which are for what.
 
 ## Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
@@ -42,51 +42,51 @@ There are many algorithms used in many different crytpocurrencies. This document
 - Axiom (Axiom Coin / AXIOM)
 - Bastion (Joincoin)
 - Bitcore (Bitcore's Timetravel10)C
-- BMW	(Midnight)
+- BMW (Midnight)
 - C11/Flax (Chaincoin and Flax)
-- Cryptolight		AEON cryptonight (MEM/2)
-- Cryptonight		XMR cryptonight
-- Deep			    Deepcoin
-- Dmd-Gr		    Diamond-Groestl
-- Fresh			    Freshcoin
-- Fugue256		    Fuguecoin
-- Groestl		    Groestlcoin
-- Heavy			    Heavycoin
-- Hodl		       HodlCoin / HODL
-- Jha			    JackpotCoin
-- Keccak		    Maxcoin
-- Luffa			    Joincoin
-- Lyra2V2		    Vertcoin & MONAcoin
-- Lyra2Z		    Zerocoin (XZC)
-- Mjollni		    Mjollnircoin
-- Myr-Gr		    Myriad-Groest
-- Neoscrypt		  FeatherCoin
-- Nist5			    Solaris / TalkCoin	
-- Pascal		    PASC
-- Penta			    Joincoin / Pentablake
-- Quark			    Quarkcoin
-- Qubit			    QuibitCoin / Q2C
-- S3			    1coin (ONE)
-- Scrypt:N		    Scrypt-N (:10 for 2048 iterations)
-- Scrypt-Jane	    Chacha coins like Cache and Ultracoin
-- ScryptJaneNf16    Diamond / DMD
-- SHA256		    Bitcoin / BTC
-- Sha256T		    OneCoin (OC)
-- Sib			    Sibcoin
-- Skein			    Skeincoin
-- Skein2		    Woodcoin
-- Skunk			    Signatum
-- Timetravel	    MachineCoin
-- Tribus		    Denarius
-- Vanilla		    Vanilla (Blake256)
-- Veltor		    VeltorCoin
-- Whirlpool		    Joincoin
-- Wildkecccak	    Boolberry
-- X11Evo		    Revolver 
-- X14			    X14Coin
-- X15			    Halcyon
-- X17			    Verge (X17)
-- Zr5			    ZiftrCoin
+- Cryptolight AEON cryptonight (MEM/2)
+- Cryptonight XMR cryptonight
+- Deep Deepcoin
+- Dmd-Gr Diamond-Groestl
+- Fresh Freshcoin
+- Fugue256 Fuguecoin
+- Groestl Groestlcoin
+- Heavy Heavycoin
+- Hodl HodlCoin / HODL
+- Jha JackpotCoin
+- Keccak Maxcoin
+- Luffa Joincoin
+- Lyra2V2 Vertcoin & MONAcoin
+- Lyra2Z Zerocoin (XZC)
+- Mjollni Mjollnircoin
+- Myr-Gr Myriad-Groest
+- Neoscrypt FeatherCoin
+- Nist5 Solaris / TalkCoin
+- Pascal PASC
+- Penta Joincoin / Pentablake
+- Quark Quarkcoin
+- Qubit QuibitCoin / Q2C
+- S3 1coin (ONE)
+- Scrypt:N Scrypt-N (:10 for 2048 iterations)
+- Scrypt-Jane Chacha coins like Cache and Ultracoin
+- ScryptJaneNf16 Diamond / DMD
+- SHA256 Bitcoin / BTC
+- Sha256T OneCoin (OC)
+- Sib Sibcoin
+- Skein Skeincoin
+- Skein2 Woodcoin
+- Skunk Signatum
+- Timetravel MachineCoin
+- Tribus Denarius
+- Vanilla Vanilla (Blake256)
+- Veltor VeltorCoin
+- Whirlpool Joincoin
+- Wildkecccak Boolberry
+- X11Evo Revolver
+- X14 X14Coin
+- X15 Halcyon
+- X17 Verge (X17)
+- Zr5 ZiftrCoin
 
 ## Hosted Wallets
 
@@ -106,8 +106,8 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Exchanges
 
-- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies). 
-- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies). 
+- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies).
+- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies).
 
 ## Universal GUI Apps
 
@@ -120,7 +120,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## MacOS GUI Apps
 
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI. 
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI.
 
 ## MacOS CLI Apps
 
@@ -135,10 +135,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Find this useful?
 
-If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
+If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated.
 
-* **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
-* **ETH**: `0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
-* **LTC**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
+- **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+- **ETH**: `0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
+- **LTC**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
 - **LBRY**: `bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
-- **SIA**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884` 
+- **SIA**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
