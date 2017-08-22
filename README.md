@@ -106,7 +106,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Exchanges
 
-- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz)
+- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies). 
 - [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies). 
 
 ## Universal GUI Apps
