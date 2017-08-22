@@ -46,7 +46,6 @@ There are many algorithms used in many different crytpocurrencies. This document
 - C11/Flax (Chaincoin and Flax)
 - Cryptolight		AEON cryptonight (MEM/2)
 - Cryptonight		XMR cryptonight
-- DaggerHashimoto   Ethereum / ETH
 - Deep			    Deepcoin
 - Dmd-Gr		    Diamond-Groestl
 - Fresh			    Freshcoin
@@ -68,13 +67,11 @@ There are many algorithms used in many different crytpocurrencies. This document
 - Quark			    Quarkcoin
 - Qubit			    QuibitCoin / Q2C
 - S3			    1coin (ONE)
-- Scrypt		    Litecoin / LTC
 - Scrypt:N		    Scrypt-N (:10 for 2048 iterations)
 - Scrypt-Jane	    Chacha coins like Cache and Ultracoin
 - ScryptJaneNf16    Diamond / DMD
 - SHA256		    Bitcoin / BTC
 - Sha256T		    OneCoin (OC)
-- Sia (SC)		    Siacoin
 - Sib			    Sibcoin
 - Skein			    Skeincoin
 - Skein2		    Woodcoin
@@ -85,9 +82,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - Veltor		    VeltorCoin
 - Whirlpool		    Joincoin
 - Wildkecccak	    Boolberry
-- X11Evo		    Revolver
-- X11Gost		    SIBCoin, SIB
-- X13			    MaruCoin, CPU/GPU
+- X11Evo		    Revolver 
 - X14			    X14Coin
 - X15			    Halcyon
 - X17			    Verge (X17)
