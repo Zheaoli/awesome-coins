@@ -122,6 +122,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 - [cgminer](http://macminer.fabulouspanda.com/commandline/)
 - [sgminer](http://macminer.fabulouspanda.com/commandline/)
 
+## Recommended Graphics Cards (GPUs)
+
+- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j)
+
 ## Find this useful?
 
 If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
