@@ -120,13 +120,13 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## MacOS GUI Apps
 
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps 
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI. 
 
 ## MacOS CLI Apps
 
-- [bfgminer](http://macminer.fabulouspanda.com/commandline/)
-- [cgminer](http://macminer.fabulouspanda.com/commandline/)
-- [sgminer](http://macminer.fabulouspanda.com/commandline/)
+- [bfgminer](http://macminer.fabulouspanda.com/commandline/) (Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities)
+- [cgminer](http://macminer.fabulouspanda.com/commandline/) (ASIC and FPGA miner in c for bitcoin)
+- [sgminer](http://macminer.fabulouspanda.com/commandline/) (Scrypt GPU miner)
 
 ## Recommended Hardware
 
