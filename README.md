@@ -103,6 +103,16 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 - Sia Paper Wallet
 
+## Universal GUI Apps
+
+- [Sia UI](http://sia.tech/apps/) (Sia wallet, file hosting, storage)
+- [LBRY](https://lbry.io) (LBRY wallet, media consumption & publishing platform)
+
+## Windows GUI Apps
+
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) (resells your GPU/CPU to miners for profit!)
+
+
 ## Find this useful?
 
 If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
