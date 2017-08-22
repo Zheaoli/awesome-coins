@@ -1,4 +1,4 @@
-# Crypto Currency Algorithms 
+# Awesome Crypto Currency Algorithms 
 
 A simple guide to cryto-currencies and their algos.
 
