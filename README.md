@@ -6,11 +6,11 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Algos
 
-- Scrypt
+- Scrypt (Litecoin)
 - SHA256 (Bitcoin)
 - ScryptNF
-- X11
-- X13
+- X11 (Darkcoin, Dashcoin, ASIC-Resistant)
+- X13 (MaruCoin, CPU/GPU)
 - Keccak
 - X15
 - Nist4
@@ -30,7 +30,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 - Decred
 - CryptoNight
 - Lbry
-- Equihash
+- Equihash (Zcash)
 - Pascal
 - X11Gost
 - Sia
