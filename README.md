@@ -1,4 +1,4 @@
-# Awesome Crypto Currency Algorithms 
+# Awesome Crypto Currency Tools & Algorithms 
 
 A simple guide to cryto-currencies and their algos.
 
@@ -112,6 +112,15 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 - [NiceHash Miner](https://miner.nicehash.com/?refby=386829) (resells your GPU/CPU to miners for profit!)
 
+## MacOS GUI Apps
+
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps 
+
+## MacOS CLI Apps
+
+- [bfgminer](http://macminer.fabulouspanda.com/commandline/)
+- [cgminer](http://macminer.fabulouspanda.com/commandline/)
+- [sgminer](http://macminer.fabulouspanda.com/commandline/)
 
 ## Find this useful?
 
