@@ -4,45 +4,70 @@ A simple guide to cryto-currencies and their algos.
 
 There are many algorithms used in many different crytpocurrencies. This documentument serves to provide a simple map to reference which are for what. 
 
-## Algos supported by [NiceHash](https://www.nicehash.com/?refby=386829)
+## Algos
 
-- `Scrypt` (Litecoin / LTC)
-- `SHA256` (Bitcoin / BTC)
-- `ScryptNF` (Scrypt-Adaptive-Nfactor) (GPU Coin, GPUC)
-- `X11` (Dash / Darkcoin, Dashcoin, ASIC-Resistant)
-- `X13` (MaruCoin / MARU) (CPU/GPU)
-- `Keccak` (MaxCoin / MAX)
-- `X15` (HTML5 Coin, HTML5)
-- `Nist5` (Talkcoin, TAC)
-- `NeoScrypt` (Phoenixcoin (PXC), Imperialcoin (IPC), Feathercoin (FTC), UFOcoin (UFO), Guncoin (GUN), Bollywoodcoin (BDC), Orbitcoin (ORB), Halcyon /HAL)
-- `Lyra2RE` (VertCoin / VTC)
-- `WhirlpoolX` (Vanillacoin / VNL)
-- `Qubit` (QuibitCoin / Q2C)
-- `Quark` (QRK)
-- `Axiom` (Axiom Coin / AXIOM)
-- `Lyra2REv2` (VertCoin / VTC)
-- `ScryptJaneNf16` (Diamond / DMD)
-- `Blake256r8` (Blake Coin / BLC)
-- `Blake256r14` (Blake Coin / BLC)
-- `Blake256r8vnl` (Blake Coin / BLC)
-- `Hodl` (HodlCoin / HODL)
-- `DaggerHashimoto` (Ethereum / ETH)
-- `Decred` (DCR)
-- `CryptoNight` (XCN, CPU-only)
-- `Lbry` (LBC)
-- `Equihash` (Zcash / XEC)
-- `Pascal` (PASC)
-- `X11Gost` (SIBCoin / SIB)
-- `Sia` (SC)
-- `Blake2`s (NevaCoin, Netko Coin, Verge, TajCoin)
-- `Skunk` (Signatum Coin / SIGT)
-
-## Find this useful?
-
-If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
-
-* **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
-* **ETH**: `0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
-* **LTC**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
-- **LBRY**: `bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
-- **SIA**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884` 
+- Axiom			    Axiom Coin / AXIOM
+- Bastion		    Joincoin
+- Bitcore		    Bitcore's Timetravel10
+- Blake256r14		Decred
+- Blake256r8		Blake Coin / BLC
+- Blake256r8vnl		Blake Coin / BLC
+- Blake2s		    NevaCoin, Netko Coin, Verge, TajCoin
+- BMW			    Midnight
+- C11/Flax		    Chaincoin and Flax
+- Cryptolight		AEON cryptonight (MEM/2)
+- Cryptonight		XMR cryptonight
+- DaggerHashimoto   Ethereum / ETH
+- Decred		    DCR (=blake256r14)
+- Deep			    Deepcoin
+- Dmd-Gr		    Diamond-Groestl
+- Equihash		    Zcash, ZClassic, HUSH, Komodo
+- Fresh			    Freshcoin
+- Fugue256		    Fuguecoin
+- Groestl		    Groestlcoin
+- Heavy			    Heavycoin
+- Hodl		        HodlCoin / HODL
+- Jha			    JackpotCoin
+- Keccak		    Maxcoin
+- Lbry			    LBRY Credits
+- Luffa			    Joincoin
+- Lyra2			    CryptoCoin
+- Lyra2RE		    Old Vertcoin algo
+- Lyra2REv2		    VertCoin / VTC
+- Lyra2V2		    Vertcoin & MONAcoin
+- Lyra2Z		    Zerocoin (XZC)
+- Mjollni		    Mjollnircoin
+- Myr-Gr		    Myriad-Groest
+- Neoscrypt		    FeatherCoin
+- Nist5			    Solaris / TalkCoin	
+- Pascal		    PASC
+- Penta			    Joincoin / Pentablake
+- Quark			    Quarkcoin
+- Qubit			    QuibitCoin / Q2C
+- S3			    1coin (ONE)
+- Scrypt		    Litecoin / LTC
+- Scrypt:N		    Scrypt-N (:10 for 2048 iterations)
+- Scrypt-Jane	    Chacha coins like Cache and Ultracoin
+- ScryptJaneNf16    Diamond / DMD
+- SHA256		    Bitcoin / BTC
+- Sha256T		    OneCoin (OC)
+- Sia (SC)		    Siacoin
+- Sib			    Sibcoin
+- Skein			    Skeincoin
+- Skein2		    Woodcoin
+- Skunk			    Signatum
+- Timetravel	    MachineCoin
+- Tribus		    Denarius
+- Vanilla		    Vanilla (Blake256)
+- Veltor		    VeltorCoin
+- Whirlpool		    Joincoin
+- WhirlpoolX	    Vanillacoin / VNL
+- Wildkecccak	    Boolberry
+- X11			    Dash, Darkcoin, Dashcoin
+- X11Evo		    Revolver
+- X11Gost		    SIBCoin, SIB
+- X13			    MaruCoin, CPU/GPU
+- X14			    X14Coin
+- X15			    Halcyon
+- X17			    Verge (X17)
+- Zr5			    ZiftrCoin
