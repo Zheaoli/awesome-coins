@@ -103,6 +103,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 - Sia Paper Wallet
 
+## Exchanges
+
+- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies). 
+
 ## Universal GUI Apps
 
 - [Sia UI](http://sia.tech/apps/) (Sia wallet, file hosting, storage)
