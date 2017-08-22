@@ -88,6 +88,12 @@ There are many algorithms used in many different crytpocurrencies. This document
 - X17			    Verge (X17)
 - Zr5			    ZiftrCoin
 
+## Mining Pools
+
+- BTC: https://pool.bitcoin.com/
+- ETH: https://eth.nanopool.org/
+
+
 ## Hosted Wallets
 
 - [BTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
