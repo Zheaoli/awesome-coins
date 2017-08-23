@@ -108,6 +108,6 @@ If you'd like to donate towards my efforts in the open source world, you can use
 - **LBRY**: `bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
 - **SIA**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
 
-Or, [Say Thanks!](http://saythanks.io/to/kennethreitz).
+Or, [Say Thanks!](http://saythanks.io/to/kennethreitz)
 
 ✨🍰✨
