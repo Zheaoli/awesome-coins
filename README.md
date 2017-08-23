@@ -24,17 +24,19 @@ There are many algorithms used in many different crypto–currencies. This docum
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 
-## ☤ Hosted Coin Wallets
+## ☤ Coin Wallets
+
+### Hosted Coin Wallets
 
 - [**BTC** (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [**ETH** (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [**LTC** (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 
-## ☤ Debit Cards
+### Coin Debit Cards
 
 - [Cryptopay **BTC** Debit Card](https://cryptopay.me/join/03db9c17)
 
-## ☤ Paper Coin Wallets
+### Paper Coin Wallets
 
 - [**Sia** Paper Wallet](https://siapaperwallet.co)
 
