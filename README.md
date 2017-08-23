@@ -67,7 +67,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 ## ☤ Windows GUI Apps
 
-- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — resells your GPU/CPU to miners for profit!
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable). 
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
 
