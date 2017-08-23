@@ -7,7 +7,7 @@
 
 There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
 
-## Before We Begin
+## So, Before We Begin…
 
 Some of this "coin" stuff may be confusing, if you're new. So, let me explain what I know so far— 
 
