@@ -5,6 +5,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 ## ☤ Coin Tools & Utilities
 
 - [Coinbin.org](http://coinbin.org) (Human–friendly API for quickly getting coin data — exchange rates, etc)
+    * [List of All Known Coins](http://coinbin.org/coins) (`/coins`)
     * [BTC Current Value](http://coinbin.org/btc) (`/btc`)
     * [BTC Daily Historical Value](http://coinbin.org/btc/history) (`/btc/history`)
     * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) (`/btc/to/eth`)
