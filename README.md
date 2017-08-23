@@ -11,7 +11,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 Some of this may be confusing, if you're new. Let me explain — 
 
-There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, like stocks. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware. 
+There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware. 
 
 It's hard to mine a coin on your own, and is a bit like gampling, so people typically join a pool (which typically use the `stratum` protocol` to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute. 
 
