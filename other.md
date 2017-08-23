@@ -1,1 +1,49 @@
 # Other Crypto–Currency Algorithms 
+
+- `Axiom` (Axiom Coin / AXIOM)
+- `Bastion` (Joincoin)
+- `Bitcore` (Bitcore's Timetravel10)C
+- `BMW`	(Midnight)
+- `C11/Flax` (Chaincoin and Flax)
+- `Cryptolight`		AEON cryptonight (MEM/2)
+- `Cryptonight`		XMR cryptonight
+- `Deep`			    Deepcoin
+- `Dmd-Gr`		    Diamond-Groestl
+- `Fresh`			    Freshcoin
+- `Fugue256`		    Fuguecoin
+- `Groestl`		    Groestlcoin
+- `Heavy`			    Heavycoin
+- `Hodl`		       HodlCoin / HODL
+- `Jha`			    JackpotCoin
+- `Keccak`		    Maxcoin
+- `Luffa`			    Joincoin
+- `Lyra2V2`		    Vertcoin & MONAcoin
+- `Lyra2Z`		    Zerocoin (XZC)
+- `Mjollni`		    Mjollnircoin
+- `Myr-Gr`		    Myriad-Groest
+- `Neoscrypt`		  FeatherCoin
+- `Nist5`			    Solaris / TalkCoin	
+- `Pascal`		    PASC
+- `Penta`			    Joincoin / Pentablake
+- `Quark`			    Quarkcoin
+- `Qubit`			    QuibitCoin / Q2C
+- `S3`			    1coin (ONE)
+- `Scrypt:N`		    Scrypt-N (:10 for 2048 iterations)
+- `Scrypt-Jane`	    Chacha coins like Cache and Ultracoin
+- `ScryptJaneNf16`    Diamond / DMD
+- `Sha256T`		    OneCoin (OC)
+- `Sib`			    Sibcoin
+- `Skein`			    Skeincoin
+- `Skein2`		    Woodcoin
+- `Skunk`			    Signatum
+- `Timetravel`	    MachineCoin
+- `Tribus`		    Denarius
+- `Vanilla`		    Vanilla (Blake256)
+- `Veltor`		    VeltorCoin
+- `Whirlpool`		    Joincoin
+- `Wildkecccak`	    Boolberry
+- `X11Evo`		    Revolver 
+- `X14`			    X14Coin
+- `X15`			    Halcyon
+- `X17`			    Verge (X17)
+- `Zr5`			    ZiftrCoin
