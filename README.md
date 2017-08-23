@@ -67,8 +67,8 @@ There are many algorithms used in many different crypto-currencies. This documen
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
-- `Scrypt` (Litecoin / **LTC**)
-- `SHA256` (Bitcoin / **BTC**)
+- `Scrypt` (Litecoin / **[LTC](http://coinbin.org/ltc)**)
+- `SHA256` (Bitcoin / **[BTC](http://coinbin.org/btc)**)
 - `ScryptNF` (Scrypt-Adaptive-Nfactor) (GPU Coin, **GPUC**)
 - `X11` (Dash / Darkcoin, Dashcoin, ASIC-Resistant)
 - `X13` (MaruCoin / **MARU**) (CPU/GPU)
