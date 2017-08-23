@@ -1,8 +1,8 @@
-# Awesome Crypto Currency Tools & Algorithms 
+# Awesome Crypto Currency Tools & Algorithms
 
-A simple guide to cryto-currencies and their algos.
+A simple guide to crypto-currencies and their algos.
 
-There are many algorithms used in many different crytpocurrencies. This documentument serves to provide a simple map to reference which are for what. 
+There are many algorithms used in many different crypto-currencies. This documentument serves to provide a simple map to reference which are for what.
 
 ## Tools
 
@@ -13,7 +13,6 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 - BTC: https://pool.bitcoin.com/
 - ETH: https://eth.nanopool.org/
-
 
 ## Hosted Wallets
 
@@ -31,8 +30,8 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Exchanges
 
-- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies). 
-- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies). 
+- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies).
+- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies).
 
 
 ## Universal GUI Apps
@@ -46,7 +45,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## MacOS GUI Apps
 
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI. 
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI.
 
 ## MacOS CLI Apps
 
@@ -152,10 +151,10 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Find this useful?
 
-If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated. 
+If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated.
 
-* **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
-* **ETH**: `0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
-* **LTC**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
+- **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+- **ETH**: `0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
+- **LTC**: `Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
 - **LBRY**: `bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
-- **SIA**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884` 
+- **SIA**: `f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
