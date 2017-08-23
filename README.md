@@ -10,14 +10,14 @@ There are many algorithms used in many different crypto–currencies. This docum
 ## ☤ Coin Tools & Utilities
 
 - **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, &c.)
-    * [List of All Known Coins](http://coinbin.org/coins) (`/coins`)
-    * [BTC Current Value](http://coinbin.org/btc) (`/btc`)
-    * [BTC Daily Historical Value](http://coinbin.org/btc/history) (`/btc/history`)
-    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) (`/btc/to/eth`)
-    * [20.01 BTC Value](http://coinbin.org/btc/20.01) (`/btc/20.01`)
-    * [42 ETH Value in BTC](http://coinbin.org/eth/42/btc) (`/eth/42/btc`)
+    * [List of All Known Coins](http://coinbin.org/coins) `/coins`
+    * [BTC Current Value](http://coinbin.org/btc) `/btc`
+    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
+    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
+    * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
+    * [42 ETH Value in BTC](http://coinbin.org/eth/42/btc) `/eth/42/btc`
     * Supports all crypto–currencies. 
-- [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
+- [CoinMarketCap](https://coinmarketcap.com) — shows all currencies on a real-time dashboard.
 
 ## ☤ Coin Mining Pools
 
@@ -40,42 +40,42 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 ## ☤ Coin Exchanges
 
-- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies).
-- [Shapeshift](https://shapeshift.io/#/coins) (the fastest exchange on Earth). 
-- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies).
+- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) — wallets for all currencies, trading to/from all currencies.
+- [Shapeshift](https://shapeshift.io/#/coins) — the fastest exchange on Earth.
+- [Bittrex](https://bittrex.com) — wallets for all currencies, trading to/from all currencies.
 
 
 ## ☤ Universal GUI Apps
 
-- [**Sia** UI](http://sia.tech/apps/) (Sia wallet, file hosting, storage)
-- [**LBRY**](https://lbry.io) (LBRY wallet, media consumption & publishing platform)
+- [**Sia** UI](http://sia.tech/apps/) — SC wallet, file hosting, storage.
+- [**LBRY**](https://lbry.io) — LBRY wallet, media consumption & publishing platform.
 
 ## ☤ Windows GUI Apps
 
-- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) (resells your GPU/CPU to miners for profit!)
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — resells your GPU/CPU to miners for profit!
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
 
 ## ☤ MacOS GUI Apps
 
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI.
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/) — wraps bfgminer, cgminer, and sgminer in a GUI.
 
 ## ☤ MacOS CLI Apps
 
-- [bfgminer](http://macminer.fabulouspanda.com/commandline/) (Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities)
-- [cgminer](http://macminer.fabulouspanda.com/commandline/) (ASIC and FPGA miner in c for bitcoin)
-- [sgminer](http://macminer.fabulouspanda.com/commandline/) (Scrypt GPU miner)
+- [bfgminer](http://macminer.fabulouspanda.com/commandline/) — Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
+- [cgminer](http://macminer.fabulouspanda.com/commandline/) — ASIC and FPGA miner in C for Bitcoin.
+- [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt GPU miner.
 
 ## ☤ Recommended Hardware
 
-- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j)
-- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk)
+- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) — the most powerful consumer graphics card in the world. 
+- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) — can apparently host 12x PCI-E GPUs. 
 
 ## ☤ Cool Coin/Blockchain Stuff
 
-- [Tezos](https://www.tezos.com) (self-healing blockchain)
-- [Tendermint](https://tendermint.com) (Byzantine fault-tolerant replicated state machines in any programming language)
-- [Cosmos](https://cosmos.network) (a network and a framework for interoperability between blockchains.)
+- [Tezos](https://www.tezos.com) — self-healing blockchain.
+- [Tendermint](https://tendermint.com) — byzantine fault-tolerant replicated state machines in any programming language.
+- [Cosmos](https://cosmos.network) — a network and a framework for interoperability between blockchains.
 
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
