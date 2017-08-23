@@ -1,8 +1,6 @@
 # Awesome Crypto Currency Tools & Algorithms
 
-A simple guide to crypto-currencies and their algos.
-
-There are many algorithms used in many different crypto-currencies. This documentument serves to provide a simple map to reference which are for what.
+There are many algorithms used in many different crypto-currencies. This documentument serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
 
 ## Various Coin Tools & Utilities
 
