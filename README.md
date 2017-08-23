@@ -29,7 +29,7 @@ Hope that helps clear things up.
     * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
     * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
     * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
-    * [42 ETH Value in BTC](http://coinbin.org/eth/42/btc) `/eth/42/btc`
+    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
     * Supports all crypto–currencies. 
 - [CoinMarketCap](https://coinmarketcap.com) — shows all currencies on a real-time dashboard.
 
