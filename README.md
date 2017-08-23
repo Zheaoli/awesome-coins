@@ -7,6 +7,18 @@
 
 There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
 
+## Before We Begin
+
+Some of this may be confusing, if you're new. Let me explain — 
+
+There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, like stocks. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware. 
+
+It's hard to mine a coin on your own, and is a bit like gampling, so people typically join a pool (which typically use the `stratum` protocol` to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute. 
+
+Some people [rent hasing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it. 
+
+Hope that helps clear things up. 
+
 ## ☤ Coin Market Tools & Utilities
 
 - **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, &c.)
