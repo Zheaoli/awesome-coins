@@ -1,10 +1,15 @@
 # Awesome Crypto Currency Tools & Algorithms
 
-There are many algorithms used in many different crypto-currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
+There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
 
 ## ☤ Coin Tools & Utilities
 
 - [Coinbin](http://coinbin.org) (Human–friendly API for quickly getting coin data — exchange rates, etc)
+    * [BTC Current Value](http://coinbin.org/btc)
+    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth)
+    * [20.01 BTC Value](http://coinbin.org/btc/20.01)
+    * [42 ETH Value in BTC](http://coinbin.org/eth/20.01/btc)
+    * Supports all crypto–currencies. 
 - [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
 
 ## ☤ Coin Mining Pools
