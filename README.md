@@ -34,6 +34,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 ## ☤ Coin Exchanges
 
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies).
+- [Shapeshift](https://shapeshift.io/#/coins) (the fastest exchange on Earth). 
 - [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies).
 
 
