@@ -39,6 +39,8 @@ There are many algorithms used in many different crypto-currencies. This documen
 
 ## ☤ Windows GUI Apps
 
+[![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
+
 - [NiceHash Miner](https://miner.nicehash.com/?refby=386829) (resells your GPU/CPU to miners for profit!)
 
 ## ☤ MacOS GUI Apps
