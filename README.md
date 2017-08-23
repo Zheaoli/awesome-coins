@@ -33,6 +33,12 @@ Hope that helps clear things up.
     * Supports all crypto–currencies. 
 - [CoinMarketCap](https://coinmarketcap.com) — shows all currencies on a real-time dashboard.
 
+## Reading Material
+
+- [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
+- [Bitcoin Developer Rererence](https://bitcoin.org/en/developer-reference)
+
 ## ☤ Coin Mining Pools
 
 - **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — mine any algo (optimized for your GPU) & get paid in **BTC**
@@ -105,7 +111,7 @@ Hope that helps clear things up.
 - [Tezos](https://www.tezos.com) — self-healing blockchain.
 - [Tendermint](https://tendermint.com) — byzantine fault-tolerant replicated state machines in any programming language.
 - [Cosmos](https://cosmos.network) — a network and a framework for interoperability between blockchains.
-
+- [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
