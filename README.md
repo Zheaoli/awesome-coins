@@ -7,6 +7,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 ## Tools
 
 - [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
+- [Fortune for iOS](http://getfortuneapp.com) (track currencies in realtime)
 
 ## Mining Pools
 
