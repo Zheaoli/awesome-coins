@@ -5,11 +5,11 @@ There are many algorithms used in many different crypto–currencies. This docum
 ## ☤ Coin Tools & Utilities
 
 - [Coinbin.org](http://coinbin.org) (Human–friendly API for quickly getting coin data — exchange rates, etc)
-    * [BTC Current Value](http://coinbin.org/btc)
-    * [BTC Daily Historical Value](http://coinbin.org/btc/history)
-    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth)
-    * [20.01 BTC Value](http://coinbin.org/btc/20.01)
-    * [42 ETH Value in BTC](http://coinbin.org/eth/20.01/btc)
+    * [BTC Current Value](http://coinbin.org/btc) (`/btc`)
+    * [BTC Daily Historical Value](http://coinbin.org/btc/history) (`/btc/history`)
+    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) (`/btc/to/eth`)
+    * [20.01 BTC Value](http://coinbin.org/btc/20.01) (`/btc/20.01`)
+    * [42 ETH Value in BTC](http://coinbin.org/eth/42/btc) (`/eth/42/btc`)
     * Supports all crypto–currencies. 
 - [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
 
