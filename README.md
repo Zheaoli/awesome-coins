@@ -98,7 +98,7 @@ There are many algorithms used in many different crypto-currencies. This documen
 - `Blake2`s (NevaCoin, Netko Coin, Verge, TajCoin)
 - `Skunk` (Signatum Coin / SIGT)
 
-[(others)](./others.md)
+[(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
 
 ## Find this useful?
 
