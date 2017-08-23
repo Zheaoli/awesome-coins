@@ -4,6 +4,10 @@ A simple guide to cryto-currencies and their algos.
 
 There are many algorithms used in many different crytpocurrencies. This documentument serves to provide a simple map to reference which are for what. 
 
+## Tools
+
+- [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
+
 ## Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
 - `Scrypt` (Litecoin / LTC)
