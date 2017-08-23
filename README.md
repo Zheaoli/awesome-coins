@@ -7,7 +7,7 @@
 
 There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
 
-## ☤ Coin Tools & Utilities
+## ☤ Coin Market Tools & Utilities
 
 - **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, &c.)
     * [List of All Known Coins](http://coinbin.org/coins) `/coins`
