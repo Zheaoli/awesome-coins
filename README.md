@@ -4,8 +4,8 @@ There are many algorithms used in many different crypto-currencies. This documen
 
 ## ☤ Coin Tools & Utilities
 
+- [Coinbin](http://coinbin.org) Human–friendly API for quickly getting coin data (exchange rates, etc). 
 - [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
-- [Fortune for iOS](http://getfortuneapp.com) (track currencies in realtime)
 
 ## ☤ Coin Mining Pools
 
