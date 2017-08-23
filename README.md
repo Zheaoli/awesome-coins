@@ -61,7 +61,7 @@ Hope that helps clear things up.
 
 ### Hosted Coin Wallets
 
-**Notice** the coin community frowns upon use of these services, as you are not in direct control of your coins — in fact, you don't own them at all — the service does — much like the way a standard bank operates. 
+**Notice:** the coin community frowns upon use of these services, as you are not in direct control of your coins — in fact, you don't own them at all — the service does — much like the way a standard bank operates. 
 
 - [Coinbase **BTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
