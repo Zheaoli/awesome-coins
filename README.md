@@ -33,7 +33,7 @@ Hope that helps clear things up.
     * Supports all crypto–currencies. 
 - [CoinMarketCap](https://coinmarketcap.com) — shows all currencies on a real-time dashboard.
 
-## Reading Material
+## ☤ Reading Material
 
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
