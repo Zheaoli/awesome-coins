@@ -307,8 +307,10 @@ As of 2017-08-23:
 [tcc](https://coinbin.org/tcc)
 [cat](https://coinbin.org/cat)
 
+----------------------------------
 
-## ☤ Find this useful?
+
+## Find this useful?
 
 If you'd like to donate towards my efforts in the open source world, you can use the following wallet addresses, and any contributions (no matter how small) will be deeply appreciated.
 
