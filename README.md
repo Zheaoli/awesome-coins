@@ -13,7 +13,7 @@ Some of this "coin" stuff may be confusing, if you're new. So, let me explain wh
 
 There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware. 
 
-It's hard to mine a coin on your own, and is a bit like gambling, so people ussually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute. 
+It's hard to mine a coin on your own, and is a bit like gambling, so people ussually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute with thousands of other people, some of whom did find blocks. The blocks are then split up, based on the pool's rules. 
 
 Some people [rent hasing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it. 
 
