@@ -115,6 +115,8 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 ## ☤ Every Active Coin, Ranked
 
+As of 2017-08-23:
+
 [btc](https://coinbin.org/btc)
 [eth](https://coinbin.org/eth)
 [xrp](https://coinbin.org/xrp)
