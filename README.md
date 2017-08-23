@@ -26,7 +26,7 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 ## Paper Wallets
 
-- Sia Paper Wallet
+- [Sia Paper Wallet](https://siapaperwallet.co)
 
 ## Exchanges
 
