@@ -8,6 +8,65 @@ There are many algorithms used in many different crytpocurrencies. This document
 
 - [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
 
+## Mining Pools
+
+- BTC: https://pool.bitcoin.com/
+- ETH: https://eth.nanopool.org/
+
+
+## Hosted Wallets
+
+- [BTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
+- [ETH (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
+- [LTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
+
+- [BTC (Cryptopay)](https://cryptopay.me/join/03db9c17)
+
+## Debit Cards
+
+- [Cryptopay BTC Debit Card](https://cryptopay.me/join/03db9c17)
+
+## Paper Wallets
+
+- Sia Paper Wallet
+
+## Exchanges
+
+- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies). 
+- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies). 
+
+
+## Universal GUI Apps
+
+- [Sia UI](http://sia.tech/apps/) (Sia wallet, file hosting, storage)
+- [LBRY](https://lbry.io) (LBRY wallet, media consumption & publishing platform)
+
+## Windows GUI Apps
+
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) (resells your GPU/CPU to miners for profit!)
+
+## MacOS GUI Apps
+
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI. 
+
+## MacOS CLI Apps
+
+- [bfgminer](http://macminer.fabulouspanda.com/commandline/) (Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities)
+- [cgminer](http://macminer.fabulouspanda.com/commandline/) (ASIC and FPGA miner in c for bitcoin)
+- [sgminer](http://macminer.fabulouspanda.com/commandline/) (Scrypt GPU miner)
+
+## Recommended Hardware
+
+- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j)
+- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk)
+
+## Cool Stuff
+
+- [Tezos](https://www.tezos.com) (self-healing blockchain)
+- [Tendermint](https://tendermint.com) (Byzantine fault-tolerant replicated state machines in any programming language)
+- [Cosmos](https://cosmos.network) (a network and a framework for interoperability between blockchains.)
+
+
 ## Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
 - `Scrypt` (Litecoin / LTC)
@@ -92,62 +151,6 @@ There are many algorithms used in many different crytpocurrencies. This document
 - X17			    Verge (X17)
 - Zr5			    ZiftrCoin
 
-## Mining Pools
-
-- BTC: https://pool.bitcoin.com/
-- ETH: https://eth.nanopool.org/
-
-
-## Hosted Wallets
-
-- [BTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
-- [ETH (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
-- [LTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
-
-- [BTC (Cryptopay)](https://cryptopay.me/join/03db9c17)
-
-## Debit Cards
-
-- [Cryptopay BTC Debit Card](https://cryptopay.me/join/03db9c17)
-
-## Paper Wallets
-
-- Sia Paper Wallet
-
-## Exchanges
-
-- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies). 
-- [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies). 
-
-## Universal GUI Apps
-
-- [Sia UI](http://sia.tech/apps/) (Sia wallet, file hosting, storage)
-- [LBRY](https://lbry.io) (LBRY wallet, media consumption & publishing platform)
-
-## Windows GUI Apps
-
-- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) (resells your GPU/CPU to miners for profit!)
-
-## MacOS GUI Apps
-
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/), wraps bfgminer, cgminer, and sgminer in a GUI. 
-
-## MacOS CLI Apps
-
-- [bfgminer](http://macminer.fabulouspanda.com/commandline/) (Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities)
-- [cgminer](http://macminer.fabulouspanda.com/commandline/) (ASIC and FPGA miner in c for bitcoin)
-- [sgminer](http://macminer.fabulouspanda.com/commandline/) (Scrypt GPU miner)
-
-## Recommended Hardware
-
-- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j)
-- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk)
-
-## Cool Stuff
-
-- [Tezos](https://www.tezos.com) (self-healing blockchain)
-- [Tendermint](https://tendermint.com) (Byzantine fault-tolerant replicated state machines in any programming language)
-- [Cosmos](https://cosmos.network) (a network and a framework for interoperability between blockchains.)
 
 ## Find this useful?
 
