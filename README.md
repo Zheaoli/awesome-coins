@@ -25,6 +25,12 @@ There are many algorithms used in many different crypto–currencies. This docum
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 
+## ☤ Hasing Power for Rent
+
+- [NiceHash](https://www.nicehash.com/?refby=386829) — supports all popular algos, pay in **BTC** for raw throughput. 
+- [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things. 
+- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — looks complicated and sketchy, but they offer hosted ASIC solutions. 
+
 ## ☤ Coin Wallets
 
 ### Hosted Coin Wallets
