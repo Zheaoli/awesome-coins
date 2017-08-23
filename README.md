@@ -2,7 +2,7 @@
 
 There are many algorithms used in many different crypto-currencies. This documentument serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
 
-## Various Coin Tools & Utilities
+## Coin Tools & Utilities
 
 - [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
 - [Fortune for iOS](http://getfortuneapp.com) (track currencies in realtime)
