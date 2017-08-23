@@ -9,7 +9,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 ## Before We Begin
 
-Some of this may be confusing, if you're new. Let me explain — 
+Some of this "coin" stuff may be confusing, if you're new. So, let me explain what I know so far— 
 
 There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware. 
 
