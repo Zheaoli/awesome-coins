@@ -21,6 +21,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 ## ☤ Coin Mining Pools
 
+- Basically Everything: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) (atcs like a pool, actually a reseller)
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 
