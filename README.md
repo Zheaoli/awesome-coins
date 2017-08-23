@@ -21,7 +21,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 ## ☤ Coin Mining Pools
 
-- *****: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — mine any algo (optimized for your GPU) & get paid in **BTC**
+- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — mine any algo (optimized for your GPU) & get paid in **BTC**
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 - **SC**: https://sia.nanopool.org/
