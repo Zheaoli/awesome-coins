@@ -1,5 +1,7 @@
 # Awesome Crypto Currency Tools & Algorithms
 
+[![](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
+
 There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
 
 ## ☤ Coin Tools & Utilities
