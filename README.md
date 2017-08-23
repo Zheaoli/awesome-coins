@@ -4,17 +4,17 @@ A simple guide to crypto-currencies and their algos.
 
 There are many algorithms used in many different crypto-currencies. This documentument serves to provide a simple map to reference which are for what.
 
-## Tools
+## Various Coin Tools & Utilities
 
 - [CoinMarketCap](https://coinmarketcap.com) (shows all currencies on a real-time dashboard)
 - [Fortune for iOS](http://getfortuneapp.com) (track currencies in realtime)
 
-## Mining Pools
+## Coin Mining Pools
 
 - BTC: https://pool.bitcoin.com/
 - ETH: https://eth.nanopool.org/
 
-## Hosted Wallets
+## Hosted Coin Wallets
 
 - [BTC (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [ETH (Coinbase)](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
@@ -24,11 +24,11 @@ There are many algorithms used in many different crypto-currencies. This documen
 
 - [Cryptopay BTC Debit Card](https://cryptopay.me/join/03db9c17)
 
-## Paper Wallets
+## Paper Coin Wallets
 
 - [Sia Paper Wallet](https://siapaperwallet.co)
 
-## Exchanges
+## Coin Exchanges
 
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) (wallets for all currencies, trading to/from all currencies).
 - [Bittrex](https://bittrex.com) (wallets for all currencies, trading to/from all currencies).
@@ -58,7 +58,7 @@ There are many algorithms used in many different crypto-currencies. This documen
 - [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j)
 - [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk)
 
-## Cool Stuff
+## Cool Coin/Blockchain Stuff
 
 - [Tezos](https://www.tezos.com) (self-healing blockchain)
 - [Tendermint](https://tendermint.com) (Byzantine fault-tolerant replicated state machines in any programming language)
