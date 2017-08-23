@@ -21,9 +21,15 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 ## ☤ Coin Mining Pools
 
-- Basically Everything: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) (atcs like a pool, actually a reseller)
+- Most All: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — acts like a pool, actually a reseller (and pays more!)
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
+- **SC**: https://sia.nanopool.org/
+- **PASC**: https://pasc.nanopool.org/
+- **XMR**: https://xmr.nanopool.org/
+- **ZEC**: https://zec.nanopool.org/
+- **ETC**: https://etc.nanopool.org/
+
 
 ## ☤ Hasing Power for Rent
 
