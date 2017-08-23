@@ -45,7 +45,7 @@ Hope that helps clear things up.
 - **ETC**: https://etc.nanopool.org/
 
 
-## ☤ Hasing Power for Rent
+## ☤ Hashing Power for Rent
 
 - [NiceHash](https://www.nicehash.com/?refby=386829) — supports all popular algos, pay in **BTC** for raw throughput. 
 - [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things. 
