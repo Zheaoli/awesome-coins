@@ -17,7 +17,7 @@ Coins are stored in wallets. These can be hosted online, on your local computer,
 
 It's hard to mine a coin on your own, and is a bit like gambling, so people ussually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute with thousands of other people, some of whom did find blocks. The blocks are then split up, based on the pool's rules. 
 
-Some people [rent hasing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical home miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it. 
+Some people [rent hashing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical home miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it. 
 
 Hope that helps clear things up. 
 
