@@ -110,6 +110,8 @@ Hope that helps clear things up.
 
 ## ☤ Cool Coin/Blockchain Stuff
 
+- [Bit](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
+  to be made in only 3 lines of code.
 - [Tezos](https://www.tezos.com) — self-healing blockchain.
 - [Tendermint](https://tendermint.com) — byzantine fault-tolerant replicated state machines in any programming language.
 - [Cosmos](https://cosmos.network) — a network and a framework for interoperability between blockchains.
