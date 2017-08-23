@@ -113,7 +113,7 @@ There are many algorithms used in many different crypto–currencies. This docum
 
 [(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)
 
-## ☤ Every Active Coin
+## ☤ Every Active Coin, Ranked
 
 [btc](https://coinbin.org/btc)
 [eth](https://coinbin.org/eth)
