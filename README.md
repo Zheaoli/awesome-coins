@@ -9,8 +9,8 @@ There are many algorithms used in many different crypto-currencies. This documen
 
 ## ☤ Coin Mining Pools
 
-- BTC: https://pool.bitcoin.com/
-- ETH: https://eth.nanopool.org/
+- **BTC**: https://pool.bitcoin.com/
+- **ETH**: https://eth.nanopool.org/
 
 ## ☤ Hosted Coin Wallets
 
