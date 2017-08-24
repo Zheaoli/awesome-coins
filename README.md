@@ -24,7 +24,7 @@ Hope that helps clear things up.
 ## ☤ Support Causes You Care About
 
 - [Wikileaks](https://wikileaks.org) **BTC**: `1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v`
-- [Internet Archive](https://archive.org) **BTC**: `1Archive1n2C579dMsAu3iC6tWzuQJz8dN'
+- [Internet Archive](https://archive.org) **BTC**: `1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
 - [The Pirate Bay](https://thepiratebay.org) **BTC**: `129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
 - [xkcd](https://xkcd.com) **BTC**: `14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
 
