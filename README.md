@@ -79,9 +79,10 @@ Hope that helps clear things up.
 
 - [Cryptopay **BTC** Debit Card](https://cryptopay.me/join/03db9c17)
 
-### Paper Coin Wallets
+### Physical Coin Wallets
 
 - [**Sia** Paper Wallet](https://siapaperwallet.co)
+- [Cryptosteel](https://cryptosteel.com) — Made of steel!
 
 ## ☤ Coin Exchanges
 
