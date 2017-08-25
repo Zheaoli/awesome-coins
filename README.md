@@ -49,6 +49,8 @@ Hope that helps clear things up.
 
 ## ☤ Coin Mining Pools
 
+Here's a list of [WhatToMine](https://whattomine.com). 
+
 - **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — mine any algo (optimized for your GPU) & get paid in **BTC**
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
