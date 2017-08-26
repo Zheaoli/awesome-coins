@@ -92,6 +92,7 @@ Here's a list of [WhatToMine](https://whattomine.com).
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) — wallets for all currencies, trading to/from all currencies.
 - [Shapeshift](https://shapeshift.io/#/coins) — the fastest exchange on Earth.
 - [Bittrex](https://bittrex.com) — wallets for all currencies, trading to/from all currencies.
+- [Qvolta](https://qvolta.com) — Sell and buy crypto assets around the world for local payment methods.
 
 
 ## ☤ Universal GUI Apps
