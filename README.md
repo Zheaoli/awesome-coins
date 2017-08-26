@@ -78,6 +78,10 @@ Here's a list of [WhatToMine](https://whattomine.com).
 - [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **LTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 
+Actual Hosted Coin Wallets:
+
+- [MyEtherWallet **ETH**](https://www.myetherwallet.com/)
+
 ### Coin Debit Cards
 
 - [Cryptopay **BTC** Debit Card](https://cryptopay.me/join/03db9c17)
