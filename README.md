@@ -30,7 +30,7 @@ Hope that helps clear things up.
 
 ## ☤ Coin Market Tools & Utilities
 
-- **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, &c.)
+- **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, predictions, &c.)
     * [List of All Known Coins](http://coinbin.org/coins) `/coins`
     * [BTC Current Value](http://coinbin.org/btc) `/btc`
     * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
@@ -129,6 +129,7 @@ Actual Hosted Coin Wallets:
 
 - [Bit](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
   to be made in only 3 lines of code.
+- [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
 - [Tezos](https://www.tezos.com) — self-healing blockchain.
 - [Tendermint](https://tendermint.com) — byzantine fault-tolerant replicated state machines in any programming language.
 - [Cosmos](https://cosmos.network) — a network and a framework for interoperability between blockchains.
