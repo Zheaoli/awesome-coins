@@ -5,21 +5,21 @@
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
 
-There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utlities for managing coins. 
+There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utilities for managing coins.
 
 ## So, Before We Begin…
 
 Some of this "coin" stuff may be confusing, if you're new. So, let me explain what I know so far — 
 
-There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware. 
+There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
 
-Coins are stored in wallets. These can be hosted online, on your local computer, or even on a sheet of paper. 
+Coins are stored in wallets. These can be hosted online, on your local computer, or even on a sheet of paper.
 
-It's hard to mine a coin on your own, and is a bit like gambling, so people ussually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute with thousands of other people, some of whom did find blocks. The blocks are then split up, based on the pool's rules. 
+It's hard to mine a coin on your own, and is a bit like gambling, so people usually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute with thousands of other people, some of whom did find blocks. The blocks are then split up, based on the pool's rules.
 
-Some people [rent hashing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical home miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it. 
+Some people [rent hashing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical home miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it.
 
-Hope that helps clear things up. 
+Hope that helps clear things up.
 
 ## ☤ Support Causes You Care About
 
@@ -38,21 +38,21 @@ Hope that helps clear things up.
     * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
     * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
     * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
-    * Supports all crypto–currencies. 
+    * Supports all crypto–currencies.
 - [CoinMarketCap](https://coinmarketcap.com) — shows all currencies on a real-time dashboard.
 - [MoneyHash](https://moneyhash.today) — Compare money markets with available hashing power and profitability on NiceHash.
 
 ## ☤ Reading Material
 
 - [Overview of Cryptocurrencies](https://github.com/kilimchoi/cryptocurrency) — GitHub Repo.
-- [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days. 
+- [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
 - [Bitcoin Developer Rererence](https://bitcoin.org/en/developer-reference)
 
 ## ☤ Coin Mining Pools
 
-Here's a list of [WhatToMine](https://whattomine.com). 
+Here's a list of [WhatToMine](https://whattomine.com).
 
 - **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — mine any algo (optimized for your GPU) & get paid in **BTC**
 - **BTC**: https://pool.bitcoin.com/
@@ -66,15 +66,15 @@ Here's a list of [WhatToMine](https://whattomine.com).
 
 ## ☤ Hashing Power for Rent
 
-- [NiceHash](https://www.nicehash.com/?refby=386829) — supports all popular algos, pay in **BTC** for raw throughput. 
-- [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things. 
-- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — looks complicated and sketchy, but they offer hosted ASIC solutions. 
+- [NiceHash](https://www.nicehash.com/?refby=386829) — supports all popular algos, pay in **BTC** for raw throughput.
+- [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
+- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — looks complicated and sketchy, but they offer hosted ASIC solutions.
 
 ## ☤ Coin Wallets
 
 ### Hosted Coin Wallets
 
-**Notice:** the coin community frowns upon use of these services, as you are not in direct control of your coins — in fact, you don't own them at all — the service does — much like the way a standard bank operates. 
+**Notice:** the coin community frowns upon use of these services, as you are not in direct control of your coins — in fact, you don't own them at all — the service does — much like the way a standard bank operates.
 
 - [Coinbase **BTC**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
 - [Coinbase **ETH**](https://www.coinbase.com/join/516f7e9a929bda3e06000001)
@@ -108,7 +108,7 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Windows GUI Apps
 
-- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable). 
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable).
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
 
@@ -124,8 +124,8 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Recommended Hardware
 
-- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) — the most powerful consumer graphics card in the world. 
-- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) — can apparently host 12x PCI-E GPUs. 
+- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) — the most powerful consumer graphics card in the world.
+- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) — can apparently host 12x PCI-E GPUs.
 
 ## ☤ Cool Coin/Blockchain Stuff
 
