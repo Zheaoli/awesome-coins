@@ -133,6 +133,7 @@ Actual Hosted Coin Wallets:
 
 - [Bit](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
   to be made in only 3 lines of code.
+- [bcoin](http://bcoin.io) - Bitcoin fullnode implementation written entirely in Nodejs that you can even run in a browser, includes wallet, mempool, chain, and mining. 
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
 - [Tezos](https://www.tezos.com) — self-healing blockchain.
 - [Tendermint](https://tendermint.com) — byzantine fault-tolerant replicated state machines in any programming language.
