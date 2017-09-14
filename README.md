@@ -4,8 +4,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
+From Wikipedia—
+> A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency.
 
-There are many algorithms used in many different [crypto–currencies](https://en.m.wikipedia.org/wiki/Cryptocurrency). This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utilities for managing coins.
+There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utilities for managing coins.
 
 ## So, Before We Begin…
 
