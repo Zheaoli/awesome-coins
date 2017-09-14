@@ -48,7 +48,7 @@ Hope that helps clear things up.
 - [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
-- [Bitcoin Developer Rererence](https://bitcoin.org/en/developer-reference)
+- [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 
 ## ☤ Coin Mining Pools
 
