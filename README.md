@@ -125,6 +125,7 @@ Actual Hosted Coin Wallets:
 - [bfgminer](http://macminer.fabulouspanda.com/commandline/) — Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
 - [cgminer](http://macminer.fabulouspanda.com/commandline/) — ASIC and FPGA miner in C for Bitcoin.
 - [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt GPU miner.
+- [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) - Equihash CPU & GPU miner.
 
 ## ☤ Recommended Hardware
 
