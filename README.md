@@ -143,6 +143,7 @@ Actual Hosted Coin Wallets:
 - [Cosmos](https://cosmos.network) — a network and a framework for interoperability between blockchains.
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
 - [Blockply](https://blockply.com/) — A collection of the most interesting and outstanding blockchain projects
+- [Blockchain demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
