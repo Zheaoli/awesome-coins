@@ -51,6 +51,7 @@ Hope that helps clear things up.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
+- [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) - An ultra-simplified blockchain explanation (in construction).
 
 ## ☤ Coin Mining Pools
 
