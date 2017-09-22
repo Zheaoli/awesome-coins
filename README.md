@@ -41,7 +41,7 @@ Hope that helps clear things up.
     * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
     * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
     * Supports all crypto–currencies.
-- [CoinMarketCap](https://coinmarketcap.com) — shows all currencies on a real-time dashboard.
+- [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
 - [MoneyHash](https://moneyhash.today) — Compare money markets with available hashing power and profitability on NiceHash.
 
 ## ☤ Reading Material
@@ -51,13 +51,13 @@ Hope that helps clear things up.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
-- [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) - An ultra-simplified blockchain explanation (in construction).
+- [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
 
 ## ☤ Coin Mining Pools
 
 Here's a list of [WhatToMine](https://whattomine.com).
 
-- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — mine any algo (optimized for your GPU) & get paid in **BTC**
+- **#**: [https://www.nicehash.com/](https://www.nicehash.com/?refby=386829) — Mine any algo (optimized for your GPU) & get paid in **BTC**.
 - **BTC**: https://pool.bitcoin.com/
 - **ETH**: https://eth.nanopool.org/
 - **SC**: https://sia.nanopool.org/
@@ -69,9 +69,9 @@ Here's a list of [WhatToMine](https://whattomine.com).
 
 ## ☤ Hashing Power for Rent
 
-- [NiceHash](https://www.nicehash.com/?refby=386829) — supports all popular algos, pay in **BTC** for raw throughput.
+- [NiceHash](https://www.nicehash.com/?refby=386829) — Supports all popular algos, pay in **BTC** for raw throughput.
 - [Bitcoin.com Pool](https://pool.bitcoin.com/index_en.html) — I've heard good things.
-- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — looks complicated and sketchy, but they offer hosted ASIC solutions.
+- [BitMain Hosted](https://bitmainwarranty.com/product-category/hosting/) — Looks complicated and sketchy, but they offer hosted ASIC solutions.
 
 ## ☤ Coin Wallets
 
@@ -100,9 +100,9 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Coin Exchanges
 
-- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) — wallets for all currencies, trading to/from all currencies.
-- [Shapeshift](https://shapeshift.io/#/coins) — the fastest exchange on Earth.
-- [Bittrex](https://bittrex.com) — wallets for all currencies, trading to/from all currencies.
+- [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) — Wallets for all currencies, trading to/from all currencies.
+- [Shapeshift](https://shapeshift.io/#/coins) — The fastest exchange on Earth.
+- [Bittrex](https://bittrex.com) — Wallets for all currencies, trading to/from all currencies.
 - [Qvolta](https://qvolta.com) — Sell and buy crypto assets around the world for local payment methods.
 
 
@@ -113,38 +113,38 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Windows GUI Apps
 
-- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable).
+- [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — Resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable).
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
 
 ## ☤ MacOS GUI Apps
 
-- [MacMiner](http://macminer.fabulouspanda.com/macminer/) — wraps bfgminer, cgminer, and sgminer in a GUI.
+- [MacMiner](http://macminer.fabulouspanda.com/macminer/) — Wraps bfgminer, cgminer, and sgminer in a GUI.
 
 ## ☤ MacOS CLI Apps
 
 - [bfgminer](http://macminer.fabulouspanda.com/commandline/) — Modular ASIC/FPGA miner written in C, featuring overclocking, monitoring, fan speed control and remote interface capabilities.
 - [cgminer](http://macminer.fabulouspanda.com/commandline/) — ASIC and FPGA miner in C for Bitcoin.
 - [sgminer](http://macminer.fabulouspanda.com/commandline/) — Scrypt GPU miner.
-- [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) - Equihash CPU & GPU miner.
+- [nheqminer](https://github.com/kozyilmaz/nheqminer-macos) — Equihash CPU & GPU miner.
 
 ## ☤ Recommended Hardware
 
-- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) — the most powerful consumer graphics card in the world.
-- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) — can apparently host 12x PCI-E GPUs.
+- [NVidia GTX 1080 TI OC](http://amzn.to/2wl1c9j) — The most powerful consumer graphics card in the world.
+- [Asrock H110 Pro BTC+ Mining Motherboard](http://amzn.to/2xadkYk) — Can apparently host 12x PCI-E GPUs.
 
 ## ☤ Cool Coin/Blockchain Stuff
 
 - [Bit](https://github.com/ofek/bit) — Python’s fastest Bitcoin library with an API allowing transactions
   to be made in only 3 lines of code.
-- [bcoin](http://bcoin.io) - Bitcoin fullnode implementation written entirely in Nodejs that you can even run in a browser, includes wallet, mempool, chain, and mining. 
+- [bcoin](http://bcoin.io) — Bitcoin fullnode implementation written entirely in Node.js that you can even run in a browser, includes wallet, mempool, chain, and mining. 
 - [**BTC** Mempol and Fee Explorer](https://core.jochen-hoenicke.de/queue/#4d)
-- [Tezos](https://www.tezos.com) — self-healing blockchain.
-- [Tendermint](https://tendermint.com) — byzantine fault-tolerant replicated state machines in any programming language.
-- [Cosmos](https://cosmos.network) — a network and a framework for interoperability between blockchains.
+- [Tezos](https://www.tezos.com) — Self-healing blockchain.
+- [Tendermint](https://tendermint.com) — Byzantine fault-tolerant replicated state machines in any programming language.
+- [Cosmos](https://cosmos.network) — Network and a framework for interoperability between blockchains.
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
-- [Blockply](https://blockply.com/) — A collection of the most interesting and outstanding blockchain projects
-- [Blockchain demo](https://github.com/anders94/blockchain-demo) - A web-based demonstration of blockchain concepts.
+- [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
+- [Blockchain demo](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
