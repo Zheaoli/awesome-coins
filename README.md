@@ -104,6 +104,7 @@ Actual Hosted Coin Wallets:
 - [Shapeshift](https://shapeshift.io/#/coins) — The fastest exchange on Earth.
 - [Bittrex](https://bittrex.com) — Wallets for all currencies, trading to/from all currencies.
 - [Qvolta](https://qvolta.com) — Sell and buy crypto assets around the world for local payment methods.
+- [Coinwale](https://coinwale.com) - Anonymous cryptocurrency exchange.
 
 
 ## ☤ Universal GUI Apps
@@ -116,6 +117,7 @@ Actual Hosted Coin Wallets:
 - [NiceHash Miner](https://miner.nicehash.com/?refby=386829) — Resells your GPU/CPU to miners for profit! Benchmarks all algos against your hardware, and automatically picks the most profitable configuration (adjustable).
 
 [![](https://miner.nicehash.com/images/landing-pages/nhm/nhm2.svg)](https://miner.nicehash.com/?refby=386829)
+- [MinerGate](https://minergate.com) - Mine the most profitable cryptocurrency.
 
 ## ☤ MacOS GUI Apps
 
