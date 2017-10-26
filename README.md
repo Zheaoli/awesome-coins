@@ -52,6 +52,7 @@ Hope that helps clear things up.
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 - [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
+- [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
 
 ## ☤ Coin Mining Pools
 
