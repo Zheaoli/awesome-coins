@@ -148,6 +148,7 @@ Actual Hosted Coin Wallets:
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
 - [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
 - [Blockchain demo](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
+- [Silly Gamble](http://sillygamble.com) — Simple, fair and transparent bitcoin betting game.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 
