@@ -97,6 +97,7 @@ Actual Hosted Coin Wallets:
 ### Physical Coin Wallets
 
 - [**Sia** Paper Wallet](https://siapaperwallet.co)
+- [WalletGenerator.net](https://walletgenerator.net)
 - [Cryptosteel](https://cryptosteel.com) — Made of steel!
 
 ## ☤ Coin Exchanges
