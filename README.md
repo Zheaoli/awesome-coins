@@ -53,6 +53,16 @@ Hope that helps clear things up.
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 - [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
 - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
+- Publications
+    * [Cryptoeconomics](https://medium.com/@cryptoeconomics) / The team at cryptoeconomics.com.au
+    * [Minessence](https://vinnylingham.com/) / Vinny Lingham, Co-founder & CEO of Civic.com
+    * [CryptoOracle](https://medium.com/crypto-oracle) / Lou Kerner
+    * [CryptoCurrencyHub](https://cryptocurrencyhub.io/)
+    * Hackernoon's
+      * [Blockchain](https://hackernoon.com/blockchain/home)
+      * [Bitcoin](https://hackernoon.com/bitcoin/home)
+      * [Coin & Crypto](https://medium.com/@coinandcrypto) 
+      * [Daniel Jeffries](https://hackernoon.com/@dan.jeffries)
 
 ## ☤ Coin Mining Pools
 
