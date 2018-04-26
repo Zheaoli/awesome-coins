@@ -42,6 +42,7 @@ Hope that helps clear things up.
     * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
     * Supports all crypto–currencies.
 - [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
+- [CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.
 - [MoneyHash](https://moneyhash.today) — Compare money markets with available hashing power and profitability on NiceHash.
 
 ## ☤ Reading Material
