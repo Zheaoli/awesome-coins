@@ -78,7 +78,9 @@ Here's a list of [WhatToMine](https://whattomine.com).
 - **XMR**: https://xmr.nanopool.org/
 - **ZEC**: https://zec.nanopool.org/
 - **ETC**: https://etc.nanopool.org/
-
+- **ZCL**: https://2miners.com/zcl-mining-pool
+- **ZEN**: https://2miners.com/zen-mining-pool
+- **ZEC**: https://2miners.com/zec-mining-pool
 
 ## ☤ Hashing Power for Rent
 
