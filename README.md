@@ -101,6 +101,7 @@ Here's a list of [WhatToMine](https://whattomine.com).
 Actual Hosted Coin Wallets:
 
 - [MyEtherWallet **ETH**](https://www.myetherwallet.com/)
+- [Tokenary **ETH&ERC20 Tokens**](https://www.tokenary.io/)
 - [Dogechain **DOGE**](https://my.dogechain.info/#/wallet)
 - [Gamecredits **GAME**](https://wallet.gamecredits.com/dashboard/myWallet)
 
