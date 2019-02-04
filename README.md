@@ -51,6 +51,7 @@ Hope that helps clear things up.
 - [Map of Coins](http://mapofcoins.com) – Explore the visualized history of the cryptocurrencies, from their whitepapers up to present days.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) (ebook)
+- [Binance Academy](https://www.binance.vision) — Open access education provided by Binance.
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 - [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) — Ultra-simplified blockchain explanation (in construction).
 - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) — Official subreddit about crypto-currencies and crypto-assets.
@@ -117,6 +118,7 @@ Actual Hosted Coin Wallets:
 
 ## ☤ Coin Exchanges
 
+- [Binance](https://www.binance.com) — Exchange the world. 
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) — Wallets for all currencies, trading to/from all currencies.
 - [Shapeshift](https://shapeshift.io/#/coins) — The fastest exchange on Earth.
 - [Bittrex](https://bittrex.com) — Wallets for all currencies, trading to/from all currencies.
