@@ -60,6 +60,7 @@ Hope that helps clear things up.
     * [Minessence](https://vinnylingham.com/) / Vinny Lingham, Co-founder & CEO of Civic.com
     * [CryptoOracle](https://medium.com/crypto-oracle) / Lou Kerner
     * [CryptoCurrencyHub](https://cryptocurrencyhub.io/)
+    * [Build Blockchain](https://www.buildblockchain.tech/newsletter/issues/)
     * Hackernoon's
       * [Blockchain](https://hackernoon.com/blockchain/home)
       * [Bitcoin](https://hackernoon.com/bitcoin/home)
