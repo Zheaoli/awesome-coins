@@ -123,7 +123,7 @@ Actual Hosted Coin Wallets:
 - [Shapeshift](https://shapeshift.io/#/coins) — The fastest exchange on Earth.
 - [Bittrex](https://bittrex.com) — Wallets for all currencies, trading to/from all currencies.
 - [Qvolta](https://qvolta.com) — Sell and buy crypto assets around the world for local payment methods.
-- [Coinwale](https://coinwale.com) - Anonymous cryptocurrency exchange.
+- [InstaEx](https://instaex.io) - Instant Cryptocurrency Exchange.
 - [ExchangeRates.Pro](https://exchangerates.pro) — Price comparison of exchanges worldwide, including the P2P market.
 
 
