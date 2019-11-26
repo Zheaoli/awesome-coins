@@ -7,17 +7,17 @@
 From Wikipedia—
 > A [cryptocurrency](https://en.m.wikipedia.org/wiki/Cryptocurrency) is a digital asset designed to work as a medium of exchange using cryptography to secure the transactions and to control the creation of additional units of the currency.
 
-There are many algorithms used in many different crypto–currencies. This document serves to provide a simple map to reference which are for what, as well as provide a nice list of helpful services and utilities for managing coins.
+Many algorithms are used in different crypto–currencies. This document references which algorithms are used in crypto-currencies, and provide a nice list of helpful services and utilities for managing coins.
 
 ## So, Before We Begin…
 
-Some of this "coin" stuff may be confusing, if you're new. So, let me explain what I know so far — 
+This "coin" stuff may be confusing if you are not familiar with algorithms and data structures. Let me explain what I know so far — 
 
-There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also like to [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
+There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
 
-Coins are stored in wallets. These can be hosted online, on your local computer, or even on a sheet of paper.
+Coins are stored in wallets which can be hosted online, on your local computer, or on a sheet of paper.
 
-It's hard to mine a coin on your own, and is a bit like gambling, so people usually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything, because you helped contribute with thousands of other people, some of whom did find blocks. The blocks are then split up, based on the pool's rules.
+It is hard to mine a coin on your own, and is like gambling, so people usually opt to join a pool (which typically use the `stratum` protocol to coordinate) — this rewards you for your work, even if you didn't find anything because you helped contribute with thousands of other people, some of whom did find blocks. The blocks are then split up, based on the pool's rules.
 
 Some people [rent hashing power](https://www.nicehash.com/?refby=386829) from farms and either play the "blockchain lottery", trying to find blocks of coins on their own, or they point the farm at a pool, like a typical home miner — except they have a tremendously high amount of computational power available to them, if they're willing to pay for it.
 
