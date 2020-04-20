@@ -105,6 +105,7 @@ Actual Hosted Coin Wallets:
 - [Tokenary **ETH&ERC20 Tokens**](https://www.tokenary.io/)
 - [Dogechain **DOGE**](https://my.dogechain.info/#/wallet)
 - [Gamecredits **GAME**](https://wallet.gamecredits.com/dashboard/myWallet)
+- [Glif **FIL**](https://github.com/openworklabs/filecoin-web-wallet)
 
 ### Coin Debit Cards
 
