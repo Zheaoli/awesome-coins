@@ -132,6 +132,7 @@ Actual Hosted Coin Wallets:
 
 - [**Sia** UI](http://sia.tech/apps/) — SC wallet, file hosting, storage.
 - [**LBRY**](https://lbry.io) — LBRY wallet, media consumption & publishing platform.
+- [**DeBank**](https://debank.com/) - DeFi wallet, view assets and debts in Ethereum DeFi projects.
 
 ## ☤ Windows GUI Apps
 
