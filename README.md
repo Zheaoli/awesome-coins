@@ -13,7 +13,7 @@ Many algorithms are used in different crypto–currencies. This document referen
 
 This "coin" stuff may be confusing if you are not familiar with algorithms and data structures. Let me explain what I know so far — 
 
-There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
+There are many, many [coins](https://cryptocurrencyliveprices.com/allcoins.php). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
 
 Coins are stored in wallets which can be hosted online, on your local computer, or on a sheet of paper.
 
