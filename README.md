@@ -13,7 +13,7 @@ Many algorithms are used in different crypto–currencies. This document referen
 
 This "coin" stuff may be confusing if you are not familiar with algorithms and data structures. Let me explain what I know so far — 
 
-There are many, many [coins](http://coinbin.org/coins). People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
+There are many, many coins. People like to [trade](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) them, not unlike stocks or Pokémon cards. People also [mine](https://www.nicehash.com/?refby=386829) them, using their home computers or specialized hardware.
 
 Coins are stored in wallets which can be hosted online, on your local computer, or on a sheet of paper.
 
@@ -33,14 +33,6 @@ Hope that helps clear things up.
 
 ## ☤ Coin Market Tools & Utilities
 
-- **[Coinbin.org](http://coinbin.org)** — Human–friendly API for quickly getting coin data (exchange rates, predictions, &c.)
-    * [List of All Known Coins](http://coinbin.org/coins) `/coins`
-    * [BTC Current Value](http://coinbin.org/btc) `/btc`
-    * [BTC Daily Historical Value](http://coinbin.org/btc/history) `/btc/history`
-    * [BTC / ETH Exchange Rate](http://coinbin.org/btc/to/eth) `/btc/to/eth`
-    * [20.01 BTC Value](http://coinbin.org/btc/20.01) `/btc/20.01`
-    * [42 ETH Value in BTC](http://coinbin.org/eth/42/to/btc) `/eth/42/to/btc`
-    * Supports all crypto–currencies.
 - [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
 - ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 - [The Coin Perspective](https://thecoinperspective.com) — Helps you put different coins in perspective, comparing marketcaps, supplies and prices.
