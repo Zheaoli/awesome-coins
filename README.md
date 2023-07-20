@@ -44,6 +44,7 @@ Hope that helps clear things up.
 - [CoinMarketCap](https://coinmarketcap.com) — Shows all currencies on a real-time dashboard.
 - ~~[CoinScanner.co](https://coinscanner.co/) — Gives you multiple trade routes from 1 crypto to another.~~
 - [The Coin Perspective](https://thecoinperspective.com) — Helps you put different coins in perspective, comparing marketcaps, supplies and prices.
+- [Etherscan](https://github.com/etherscan/awesome-etherscan) - A block explorer for viewing transactions and token transfers on Ethereum and other EVM blockchain
 
 ## ☤ Reading Material
 
